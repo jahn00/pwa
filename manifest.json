@@ -14,7 +14,7 @@
           "sizes": "512x512"
       }
   ],
-  "url_handlers": [
+  "scope_extensions": [
     {
       "origin": "https://jahn00.github.io"
     },
