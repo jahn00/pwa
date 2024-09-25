@@ -17,6 +17,9 @@
   "url_handlers": [
     {
       "origin": "https://jahn00.github.io"
+    },
+    {
+      "origin": "https://luhuangmsft.github.io"
     }
   ],
   "shortcuts": [
