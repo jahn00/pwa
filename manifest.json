@@ -10,7 +10,7 @@
   "display": "standalone",
   "scope": "/",
   "scope_extensions": [
-    { "type": "origin", "value": "https://jahn00.github.io"},
+    { "origin": "https://jahn00.github.io"},
     {
       "type": "registrable_domain",
       "value": "https://luhuangmsft.github.io"
