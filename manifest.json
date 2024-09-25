@@ -8,17 +8,19 @@
   "theme_color": "#2f3d58",
   "orientation": "any",
   "display": "standalone",
+  "scope": "/",
+  "scope_extensions": [
+    { "type": "origin", "value": "https://jahn00.github.io"},
+    {
+      "type": "registrable_domain",
+      "value": "https://luhuangmsft.github.io"
+    }
+  ],
   "icons": [
       {
           "src": "/pwa/icon512.png",
           "sizes": "512x512"
       }
-  ],
-  "scope_extensions": [
-    {
-      "type": "registrable_domain",
-      "value": "https://luhuangmsft.github.io"
-    }
   ],
   "shortcuts": [
     {
