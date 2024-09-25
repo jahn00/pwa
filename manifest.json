@@ -18,5 +18,19 @@
     {
       "origin": "https://jahn00.github.io"
     }
+  ],
+  "shortcuts": [
+    {
+      "name": "Target test page",
+      "description": "Go to the target page",
+      "url": "found_me.html",
+      "icons": [
+        {
+          "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
   ]
 }
