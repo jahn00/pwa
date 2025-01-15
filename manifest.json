@@ -16,7 +16,7 @@
   ],
   "icons": [
       {
-          "src": "/pwa/icon316.jpg",
+          "src": "/pwa/lofi-girl.jpg",
           "sizes": "316x316"
       }
   ],
@@ -27,7 +27,7 @@
       "url": "found_me.html",
       "icons": [
         {
-          "src": "/pwa/icon316.jpg",
+          "src": "/pwa/lofi-girl.jpg",
           "sizes": "316x316",
           "type": "image/png"
         }
