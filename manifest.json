@@ -11,7 +11,8 @@
   "scope": "/",
   "scope_extensions": [
     {
-      "origin": "https://luhuangmsft.github.io"
+      "type": "origin",
+      "value": "https://luhuangmsft.github.io"
     }
   ],
   "icons": [
